@@ -2,7 +2,7 @@
   "name": "employee-management",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Chandan1074/employee-management",
+  "homepage": "https://Chandan1074.github.io/employee-management",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
