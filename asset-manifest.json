@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chandan1074/employee-management/static/css/main.e6c13ad2.css",
+    "main.js": "/Chandan1074/employee-management/static/js/main.f851b79a.js",
+    "static/js/453.295300bf.chunk.js": "/Chandan1074/employee-management/static/js/453.295300bf.chunk.js",
+    "index.html": "/Chandan1074/employee-management/index.html",
+    "main.e6c13ad2.css.map": "/Chandan1074/employee-management/static/css/main.e6c13ad2.css.map",
+    "main.f851b79a.js.map": "/Chandan1074/employee-management/static/js/main.f851b79a.js.map",
+    "453.295300bf.chunk.js.map": "/Chandan1074/employee-management/static/js/453.295300bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f851b79a.js"
+  ]
+}
